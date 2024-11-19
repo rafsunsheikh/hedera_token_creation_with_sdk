@@ -1,0 +1,22 @@
+{
+  "name": "hedera_token_deploy_with_sdk",
+  "version": "1.0.0",
+  "description": "Hedera Stablecoin Token Deployment Test using SDK",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Hedera",
+    "Stablecoin",
+    "Token",
+    "SDK",
+    "Deployment"
+  ],
+  "author": "MD Rafsun Sheikh",
+  "license": "MIT",
+  "dependencies": {
+    "@hashgraph/sdk": "^2.53.0",
+    "dotenv": "^16.4.5"
+  }
+}
