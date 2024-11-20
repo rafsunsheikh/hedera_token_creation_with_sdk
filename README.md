@@ -12,7 +12,7 @@ Install sdk:
 install dotenv:
 `npm i dotenv`
 
-Check in the package.json file for:
+Check in the `package.json` file for:
 
 ```
 "dependencies": {
@@ -21,7 +21,7 @@ Check in the package.json file for:
 }
 ```
 
-Create .env file with the Hedera Testnet account Details:
+Create `.env` file with the Hedera Testnet account Details:
 
 ```
 ACCOUNT_ID = ""
